@@ -1,0 +1,131 @@
+[
+  {
+    "id" : 0,
+    "name": "Trilby",
+    "img": "images/Trilby.jpg",
+    "yearMade": 2010,
+    "brand": "Bailey of Hollywood",
+    "reviews": "This hat is comfortable and stylish. I've received many compliments on it!"
+  },
+  {
+    "id" : 1,
+    "img": "images/buckethat.jpg",
+    "name": "Bucket Hat",
+    "yearMade": 1995,
+    "brand": "Kangol",
+    "reviews": "This hat is perfect for sunny days! It keeps the sun out of my eyes and looks great."
+  },
+  {
+    "id": 2,
+    "img": "images/baseballcap.jpg",
+    "name": "Baseball Cap",
+    "yearMade": 2019,
+    "brand": "New Era",
+    "reviews": "This cap fits perfectly and looks great. The quality is top-notch."
+  },
+  {
+    "id":3,
+    "img": "images/TopHat.jpg",
+    "name": "Top Hat",
+    "yearMade": 2000,
+    "brand": "Goorin Bros.",
+    "reviews": "I feel like a magician when I wear this hat. It's well-made and comfortable."
+  },
+  {
+    "id":4,
+    "img": "images/Cowboy.jpg",
+    "name": "Cowboy Hat",
+    "yearMade": 2015,
+    "brand": "Stetson",
+    "reviews": "This hat is perfect for country music concerts! It looks great and is comfortable to wear."
+  },
+  {
+    "id":5,
+    "img": "images/beanie.jpg",
+    "name": "Beanie",
+    "yearMade": 2021,
+    "brand": "Carhartt",
+    "reviews": "This beanie is warm and comfortable. It's perfect for cold weather."
+  },
+  {
+    "id":6,
+    "img": "images/newsboycap.jpg",
+    "name": "Newsboy Cap",
+    "yearMade": 2008,
+    "brand": "Scala",
+    "reviews": "This cap is perfect for adding a touch of style to any outfit. It's comfortable and well-made."
+  },
+  {
+    "id": 7,
+    "img": "images/beret.jpg",
+    "name": "Beret",
+    "yearMade": 1999,
+    "brand": "Kangol",
+    "reviews": "This beret looks great and is comfortable to wear. It adds a touch of sophistication to any outfit."
+  },
+  {
+    "id":8,
+    "img": "images/boaterhat.jpg",
+    "name": "Boater Hat",
+    "yearMade": 2012,
+    "brand": "Brixton",
+    "reviews": "This hat is perfect for a day on the boat! It's comfortable and looks great."
+  },
+  {
+    "id":9,
+    "img": "images/visor.jpg",
+    "name": "Visor",
+    "yearMade": 2003,
+    "brand": "Nike",
+    "reviews": "This visor is perfect for playing tennis! It keeps the sun out of my eyes and looks great."
+  },
+  {
+    "id":10,
+    "img": "images/porkpiehat.jpg",
+    "name": "Pork Pie Hat",
+    "yearMade": 2018,
+    "brand": "Bollman Hat Company",
+    "reviews": "This hat is stylish and well-made. It's perfect for dressing up any outfit."
+  },
+  {
+    "id": 11,
+    "img": "images/fedora.jpg",
+    "name": "Fedora",
+    "yearMade": 2005,
+    "brand": "Stetson",
+    "reviews": "This is the best hat I've ever owned. The quality is fantastic and it looks great with any outfit!"
+  },
+  {
+    "id": 12,
+    "img": "images/flatcap.jpg",
+    "name": "Flat Cap",
+    "yearMade": 2014,
+    "brand": "Borsalino",
+    "reviews": "This cap looks great and is comfortable to wear. It's perfect for adding a touch of style to any outfit."
+  },
+  {
+    "id":13,
+    "img": "images/snapback.jpg",
+    "name": "Snapback Cap",
+    "yearMade": 2016,
+    "brand": "Mitchell & Ness",
+    "reviews": "This cap is perfect for showing off my favorite sports team! It fits well and looks great."
+  },
+  {
+    "id":14,
+    "img": "images/strawhat.jpg",
+    "name": "Straw Hat",
+    "yearMade": 2009,
+    "brand": "Stetson",
+    "reviews": "This hat is perfect for the beach! It keeps the sun out of my eyes and is comfortable to wear."
+  },
+  {
+    "id":15,
+    "img": "images/fascinator.jpg",
+    "name": "Fascinator",
+    "yearMade": 2017,
+    "brand": "Philip Treacy",
+    "reviews": "This fascinator is absolutely stunning. It's perfect for a formal event and adds a touch of glamour to any outfit."
+  }
+  
+]
